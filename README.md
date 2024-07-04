@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me TBD
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have good time managment... most of the time
+- ⚡ Fun fact: I have good time management... most of the time
 
 <!---
 Cobin-Black/Cobin-Black is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
