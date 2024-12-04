@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development, Web Development, really any kind of software engineering job
 - 🌱 I’m currently learning C#, Java, and C++
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me cobintblack@gmail.com
+- 📫 How to reach me halfkey.studio.games@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have good time management... most of the time
 
